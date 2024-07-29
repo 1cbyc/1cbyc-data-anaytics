@@ -22,7 +22,7 @@ def main():
         sys.exit(1)
 
     # clean_data = clean_data(data)
-    clean_data_df() = clean_data(data)
+    clean_data_df = clean_data(data)
 
     # generate the summary stat
     # summary_stats = calculate_summary_statistics(clean_data)
