@@ -12,3 +12,5 @@ def plot_scatter(df, column1, column2):
     sns.scatterplot(x=df[column1], y=df[column2])
     plt.title(f'Scatter Plot of {column1} vs {column2}')
     plt.show()
+
+# this is the visualization context for this
